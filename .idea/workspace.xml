@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bcc8656-014c-450f-a91a-a6b6708c4059" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MainMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/NotFound404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ProjectDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ProjectForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ProjectItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/TodoForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/UserDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/UserItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/migrations/0002_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/projects/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/import/users.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/management/commands/fill_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27uXbiwG7o6giYFFCxnIRUBY4dt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bcc8656-014c-450f-a91a-a6b6708c4059" name="Default Changelist" comment="" />
+      <created>1650171018175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650171018175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1145" y="341" key="Github.ShareDialog" timestamp="1650171562725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="341" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650171562725" />
+    <state x="1084" y="96" key="Github.UntrackedFilesDialog" timestamp="1650171347538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="96" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650171347538" />
+  </component>
+</project>
